@@ -1,0 +1,17 @@
+#opening the folder working on 
+cd OneDrive 
+--
+cd projectDPT-D-H
+-- 
+cd datepalmdiseases
+--
+cd balance 
+-- 
+#installing split folders function 
+
+pip install split_folders
+--
+# split the data into 3 folders --> train/val/test
+
+split_folders --output dataset --ratio .6 .1 .3 -- DatePalmdata
+
