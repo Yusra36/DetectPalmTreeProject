@@ -1,0 +1,21 @@
+cd OneDrive 
+--
+cd projectDPT-D-H
+-- 
+cd datepalmdiseases
+--
+ls 
+--
+#select the folder of mobile-app
+
+mobile-app/ 
+-- 
+#install yarn 
+
+npm install --global yarn 
+--
+yarn install 
+--
+#run android studio app 
+
+npm run android 

@@ -1,0 +1,45 @@
+---- To install React Js 
+---- After Creating a file in desktop named it (react)
+---- open CMD from it, ensure the virions of Node.js and npm 
+-----
+#write in CMD 
+node --version
+
+---
+create-react-app my-first-react-project
+
+---
+# go inside the folder created 
+
+cd my-first-react-project
+
+---
+#to start our app 
+npm start 
+
+---
+code . #that will open vs code 
+
+--------
+---- OPEN GIT BASH 
+---
+cd OneDrive
+---
+cd projectDPT-D-H
+---
+cd datepalmdiseases
+---
+cd frontend/
+---
+npm install --from-lock-josn
+
+---
+npm install --package-lock-only
+---
+npm fund
+---
+npm audit
+---
+npm audit fix
+---
+npm run start #this spouse to open react js website 

@@ -1,0 +1,33 @@
+-- After Creating API folder / open Git Bash 
+---
+cd OneDrive
+--
+cd projectDPT-D-H
+-- 
+cd datepalmdiseases
+--
+cd api 
+-- 
+#install all the requirements from requirements.txt 
+
+ll
+--
+less requiremnts.txt.txt
+--
+pip install tensorflow==2.14.0
+--
+pip install pillow
+--
+pip install fastapi 
+--
+pip install python-multipart
+--
+pip install uvicorn
+-- 
+pip install tensorflow-serving-api==2.14.0
+--
+pip install matplotlib
+--
+pip install numpay 
+-- 
+pip install -r requirments.txt.txt

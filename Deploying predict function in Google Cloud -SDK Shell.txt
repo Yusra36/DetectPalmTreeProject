@@ -1,0 +1,16 @@
+cd C:\
+---
+cd Users
+---
+cd vxlli
+---
+cd OneDrive
+---
+cd projectDPT-D-H
+---
+cd datepalmdiseases
+---
+cd gcp
+---
+gcloud functions deploy predict --runtime python38 --trigger-http --memory 1024 --project date-palm-tree-classification
+---
